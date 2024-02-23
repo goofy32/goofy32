@@ -7,7 +7,7 @@ Saya seorang **Mahasiswa** di Universitas Telkom.<br>
 
 Saat ini saya masih belajar menjadi seorang programmer <br>
 
-Segala masukan dan feedback sangat berarti!<br>
+Segala saran atau feedback sangat berarti!<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tahrir-thariq-alfathan-b11a92296/)ku ya.
 <!--
