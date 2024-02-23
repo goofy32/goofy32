@@ -1,5 +1,15 @@
 ### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Tahrir Thariq Alfathan**.<br>
+
+Saya seorang **Mahasiswa** di Universitas Telkom.<br>
+
+Saat ini saya masih belajar menjadi seorang programmer <br>
+
+Segala masukan dan feedback sangat berarti!<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tahrir-thariq-alfathan-b11a92296/)ku ya.
 <!--
 **goofy32/goofy32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
