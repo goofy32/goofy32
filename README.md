@@ -12,7 +12,7 @@ Segala saran dan feedback sangat berarti!<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tahrir-thariq-alfathan-b11a92296/)ku ya.
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/goofy32">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goofy32&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goofy32&layout=compact&theme=algolia"/>
 </a>
