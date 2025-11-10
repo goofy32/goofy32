@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Tahrir Thariq Alfathan**.<br>
 
-Saya seorang Fresh Graduate **Mahasiswa** di Universitas Telkom.<br>
+Saya seorang Fresh Graduate D4 Teknologi Rekayasa Multimedia.<br>
 
 Saat ini saya masih belajar menjadi seorang programmer <br>
 
